@@ -8,6 +8,6 @@ It also makes use of the russross/blackfriday library, available on github.
 ```sh
 git clone https://github.com/sid-008/GoMarkDownGenerator
 cd GoMarkDownGenerator
-go run httplearn.go
+go run main.go
 ```
 After running these commands open [localhost:8080](localhost:8080)
