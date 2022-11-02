@@ -1,4 +1,5 @@
 # GoMarkDownGenerator
+
 # A simple markdown generator written in Golang
 This was a markdown generator written in Go for the purpose of learning how to use the "net/http" package.
 It also makes use of the russross/blackfriday library, available on github.
